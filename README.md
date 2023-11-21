@@ -1,5 +1,5 @@
-#This is forked library from Bodmer/TFT_eSPI
-#Add user_file for Pico_Game_S3
+This is forked library from Bodmer/TFT_eSPI
+Add user_file for Pico_Game + ESP32-S3
 
 
 A ["Discussions"](https://github.com/Bodmer/TFT_eSPI/discussions) facility has been added for Q&A etc. Use the ["Issues"](https://github.com/Bodmer/TFT_eSPI/issues) tab only for problems with the library. Thanks!
